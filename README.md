@@ -1,4 +1,4 @@
-# Projeto-Garra-Robotica
+# Projeto Garra Robótica
 <p align="justify">Este projeto consiste em um estudo prático do funcionamento de um módulo joystick e de um micro servo motor. Na prática, foi utilizada uma garra robótica aclopada ao servo, que pode abrir e fechar de acordo com os comandos no joystick.</p>
   
 <br>
